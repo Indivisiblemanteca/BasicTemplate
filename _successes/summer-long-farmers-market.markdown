@@ -6,3 +6,5 @@ tags:
 is featured: false
 ---
 
+Great summer at the Manteca Farmers market.
+[IMG_1779.JPG](/uploads/IMG_1779.JPG)
