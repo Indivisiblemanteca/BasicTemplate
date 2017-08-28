@@ -8,4 +8,4 @@ main-image: "/uploads/IMG_1743.JPG"
 ---
 
 Great summer at the Manteca Farmers market.
-[IMG_1743-af7ea1.JPG](/uploads/IMG_1743-af7ea1.JPG)
+[IMG_1779-eeea9e.JPG](/uploads/IMG_1779-eeea9e.JPG)
