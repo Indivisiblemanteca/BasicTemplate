@@ -1,6 +1,7 @@
 ---
 title: Indivisible Manteca Activities
-date: 2017-08-28 15:51:00 -07:00
+date: 2017-08-29 18:30:00 -07:00
 position: 1
 ---
 
+Twitter Training in Manteca!  E-mail indivisiblemanteca10@gmail.com for location.
