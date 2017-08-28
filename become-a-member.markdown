@@ -1,7 +1,7 @@
 ---
 title: Become A Member
 date: 2017-02-16 19:58:00 -08:00
-position: 5
+position: 4
 mailchimp-form-embed: indivisiblemanteca10@gmail.com
 layout: becomeAMember
 ---
