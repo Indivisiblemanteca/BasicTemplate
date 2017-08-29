@@ -11,6 +11,9 @@ collections:
   successes:
     title: Successes
     output: true
+  take-action-with-indivisible-manteca:
+    title: Take Action With Indivisible Manteca
+    output: true
   uploads:
     title: Uploads
     output: true
