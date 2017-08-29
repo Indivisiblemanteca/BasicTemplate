@@ -1,7 +1,7 @@
 ---
 title: CA10 TownHall
 date: 2017-08-31 18:00:00 -07:00
-main-image: "/uploads/IMG_0837.JPG"
+main-image: "/uploads/IMG_1129.JPG"
 event-start-date: 2017-08-31 18:00:00 -07:00
 event-end-date: 2017-08-31 20:00:00 -07:00
 Location: 1341 College Ave, Modesto, CA 95350
