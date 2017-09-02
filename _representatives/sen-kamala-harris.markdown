@@ -10,3 +10,4 @@ website: https://www.harris.senate.gov/
 ---
 
 [IMG_1883.JPG](/uploads/IMG_1883.JPG)
+A lifelong public safety and civil rights leader, U.S. Senator Kamala D. Harris was the first African-American and first woman to serve as Attorney General of California and the second African-American woman to be elected to the United States Senate in history.
