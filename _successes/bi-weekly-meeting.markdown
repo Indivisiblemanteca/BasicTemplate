@@ -1,6 +1,7 @@
 ---
 title: BI-Weekly Meeting
 date: 2017-08-22 19:00:00 -07:00
+position: 1
 main-image: "/uploads/IMG_0909.JPG"
 ---
 
