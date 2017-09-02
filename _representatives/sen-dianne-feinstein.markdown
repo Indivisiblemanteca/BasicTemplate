@@ -6,7 +6,7 @@ phone-numbers:
   DC Office: "(202) 224-3553"
   Sacramento Office: "(916) 448-2787"
   Key: 
-website: www.feinstein.senate.gov/
+website: https://www.feinstein.senate.gov/
 ---
 
 Rad
