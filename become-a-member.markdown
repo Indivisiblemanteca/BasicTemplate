@@ -2,7 +2,12 @@
 title: Become A Member
 date: 2017-02-16 19:58:00 -08:00
 position: 4
-mailchimp-form-embed: http://indivisiblemanteca.us16.list-manage.com/subscribe?u=c4f066a9049a7114711840c54&id=4ad7937605
+mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
+  rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
+  clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp
+  form style overrides in your site stylesheet or in this style block.\n\t   We recommend
+  moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div
+  id=\"mc_embed_signup\">\n<form action=\"//indivisiblemanteca.us16.list-manage.com/subscribe/post?"
 instagram_username: indivisible_manteca10
 layout: becomeAMember
 ---
