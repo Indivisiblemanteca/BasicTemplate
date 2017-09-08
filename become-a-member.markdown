@@ -2,7 +2,7 @@
 title: Become A Member
 date: 2017-02-16 19:58:00 -08:00
 position: 4
-mailchimp-form-embed: http://indivisiblemanteca.us16.list-manage.com/subscribe?u=c4f066a9049a7114711840c54&id=4ad7937605
+mailchimp-form-embed: https://us16.admin.mailchimp.com/lists/designer/?id=66353
 instagram_username: indivisible_manteca10
 layout: becomeAMember
 ---
