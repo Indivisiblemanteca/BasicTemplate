@@ -7,4 +7,3 @@ embed-code: '<iframe src="https://calendar.google.com/calendar/embed?src=indivis
 layout: calendar
 ---
 
-Meet congressional candidate Mike Barkley in Manteca.  Bring your questions.  E-mail us for more information.
