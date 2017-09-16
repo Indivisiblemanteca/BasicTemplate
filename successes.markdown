@@ -5,4 +5,4 @@ position: 0
 layout: media-grid
 ---
 
-[IMG_2062.JPG](/uploads/IMG_2062.JPG) Award for work in California congressional district 10.
+[IMG_2061.JPG](/uploads/IMG_2061.JPG)
