@@ -5,4 +5,3 @@ position: 0
 layout: media-grid
 ---
 
-[IMG_2061.JPG](/uploads/IMG_2061.JPG)
