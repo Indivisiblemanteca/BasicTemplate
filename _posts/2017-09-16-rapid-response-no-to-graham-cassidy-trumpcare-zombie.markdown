@@ -5,7 +5,6 @@ is featured: true
 event-start-date: 2017-09-19 12:00:00 -07:00
 event-end-date: 2017-09-19 13:00:00 -07:00
 Location: Denham's District Office 4701 Sisk Rd. Salida, CA
-RSVP-link: www.facebook.com/events/344983099290503/?ti=icl
 ---
 
 NO to Graham-Cassidy Trumpcare Zombie 
