@@ -2,9 +2,9 @@
 title: Indivisible Manteca Group Meeting
 date: 2017-09-01 17:01:00 -07:00
 main-image: "/uploads/IMG_1927.JPG"
-event-start-date: 2017-10-03 18:00:00 -07:00
-event-end-date: 2017-10-03 19:00:00 -07:00
-Location: Manteca, CA
+event-start-date: 2017-10-17 19:00:00 -07:00
+event-end-date: 2017-10-17 20:30:00 -07:00
+Location: 129 S. Union Road, Manteca,  CA 95337
 ---
 
-Join us for our Bi-Weekly group meeting in Manteca.  E-mail us for the address of the meeting.
+Join Indivisible Manteca for our bi-weekly group meeting! Bring your friends, family, or just yourself!  
