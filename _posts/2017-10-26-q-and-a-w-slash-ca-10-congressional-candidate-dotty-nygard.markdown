@@ -4,7 +4,7 @@ date: 2017-10-26 11:42:00 -07:00
 main-image: "/uploads/dotty.jpg"
 event-start-date: 2017-10-27 19:00:00 -07:00
 event-end-date: 2017-10-27 08:15:00 -07:00
-Location: WillowLeaf Way, Manteca, CA 95337
+Location: 1972 WillowLeaf Way, Manteca, CA 95337
 ---
 
 
