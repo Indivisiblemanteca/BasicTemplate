@@ -1,6 +1,7 @@
 ---
 title: Say NO to the GOP Tax Scam Protest
 date: 2017-11-30 14:46:00 -08:00
+main-image: "/uploads/2017-11-30_1502.png"
 event-start-date: 2017-12-04 10:00:00 -08:00
 event-end-date: 2017-12-04 11:00:00 -08:00
 Location: |-
