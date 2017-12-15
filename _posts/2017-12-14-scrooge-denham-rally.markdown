@@ -1,5 +1,5 @@
 ---
-title: Scrooge Denham Rally
+title: Scrooge Denham Rally 12-20
 date: 2017-12-14 20:17:00 -08:00
 categories:
 - Protest
