@@ -1,8 +1,10 @@
 ---
 title: Manteca Canvasing Event
 date: 2018-01-23 10:34:00 -08:00
+main-image: "/uploads/we%20heart%20volunteers%20web.jpg"
 event-start-date: 2018-02-03 10:00:00 -08:00
 event-end-date: 2018-02-03 14:00:00 -08:00
+Location: 129 Union Rd, Manteca, CA 95337
 RSVP-link: https://actionnetwork.org/events/manteca-canvass-2
 ---
 
