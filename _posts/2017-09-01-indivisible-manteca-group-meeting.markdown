@@ -7,4 +7,4 @@ event-end-date: 2018-02-13 20:15:00 -08:00
 Location: 1972 WillowLeaf Way, Manteca
 ---
 
-Join Indivisible Manteca for our bi-weekly group meeting! Bring your friends, family, or just yourself!  Upcoming meetings: 02/13/18.
+Join Indivisible Manteca for our bi-weekly group meeting! Bring your friends, family, or just yourself!  Upcoming meetings: 02/28/18.
