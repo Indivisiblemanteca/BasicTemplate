@@ -7,4 +7,4 @@ event-end-date: 2018-05-31 20:15:00 -07:00
 Location: 1972 Willow Leaf Way, Manteca, CA 95337
 ---
 
-Join Indivisible Manteca for our bi-weekly group meeting! Bring your friends, family, or just yourself!  Upcoming meetings: July!
+Join Indivisible Manteca for our bi-weekly group meeting! Bring your friends, family, or just yourself!  Next Meeting is July 24th at 7 PM!
