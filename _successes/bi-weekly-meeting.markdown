@@ -1,5 +1,5 @@
 ---
-title: BI-Weekly Meeting
+title: General Meetings
 date: 2017-08-22 19:00:00 -07:00
 position: 1
 main-image: "/uploads/IMG_2285-010e0a.JPG"
