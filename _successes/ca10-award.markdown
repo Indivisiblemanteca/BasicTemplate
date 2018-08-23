@@ -1,6 +1,6 @@
 ---
-title: CA10 Award
+title: 2017 Pumpkin Fair Voter Registration
 date: 2017-08-26 16:47:00 -07:00
+main-image: "/uploads/IMG_2438.JPG"
 ---
 
-We received an award from Flip the 14 for our activism in the CA10 coalition. [IMG_2061-9884ff.JPG](/uploads/IMG_2061-9884ff.JPG) 
