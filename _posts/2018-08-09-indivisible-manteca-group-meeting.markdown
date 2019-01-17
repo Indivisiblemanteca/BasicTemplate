@@ -8,3 +8,5 @@ Location: 2120 Daniels Street, Manteca , CA 95337
 ---
 
 Join Indivisible Manteca for our Monthly  meeting! Bring your friends, family, or just yourself!  Next Meeting is February 6 at 7 PM!
+
+Indivisible Manteca elections this meeting.
