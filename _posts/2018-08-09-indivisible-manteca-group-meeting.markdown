@@ -1,5 +1,5 @@
 ---
-title: Indivisible Manteca Group Meeting - February 6, 2019
+title: Indivisible Manteca Group Meeting - July 3, 2019
 date: 2018-08-09 19:00:00 -07:00
 main-image: "/uploads/IMG_4994.MOV"
 event-start-date: 2019-02-06 19:00:00 -08:00
@@ -8,5 +8,3 @@ Location: 2120 Daniels Street, Manteca , CA 95337
 ---
 
 Join Indivisible Manteca for our Monthly  meeting! Bring your friends, family, or just yourself!  Next Meeting is July 3rd at 7 PM!
-
-Indivisible Manteca elections this meeting.
