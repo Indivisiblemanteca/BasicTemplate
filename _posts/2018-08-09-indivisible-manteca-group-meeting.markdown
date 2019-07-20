@@ -1,5 +1,5 @@
 ---
-title: Indivisible Manteca Group Meeting - July 3, 2019
+title: Indivisible Manteca Group Meeting - August 7th
 date: 2018-08-09 19:00:00 -07:00
 main-image: "/uploads/IMG_4994.MOV"
 event-start-date: 2019-08-07 19:00:00 -07:00
