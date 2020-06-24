@@ -2,6 +2,9 @@
 title: Indivisible Manteca
 timezone: America/Los_Angeles
 collections:
+  black-lives-matter:
+    title: Black Lives Matter
+    output: true
   people:
     title: People
     output: true
