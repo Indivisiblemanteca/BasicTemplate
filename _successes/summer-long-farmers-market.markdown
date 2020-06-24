@@ -3,7 +3,7 @@ title: Summer Long Farmers Market
 date: 2017-08-27 21:27:00 -07:00
 tags:
 - Manteca
-position: 3
+position: 2
 is featured: false
 main-image: "/uploads/IMG_1743.JPG"
 ---
