@@ -155,6 +155,6 @@ Instagram:
 layout: becomeAMember
 ---
 
-We are a non-partisan community political organization that participates in advocacy and action in support of local, state, and federal issues. [](https://www.facebook.com/indivisiblemanteca10/?eid=ARCNiMS59d6z6bF44eQ3n8Tsp9P8zx-wobGCld2Qfu74WnIUMSRTi9AZ3RQsWMqQtrJk3MVRrFWtrDuf)
+We are a non-partisan community political organization that participates in advocacy and action in support of local, state, and federal issues.[](http://https://www.facebook.com/indivisiblemanteca10/?eid=ARCNiMS59d6z6bF44eQ3n8Tsp9P8zx-wobGCld2Qfu74WnIUMSRTi9AZ3RQsWMqQtrJk3MVRrFWtrDuf))
 
 Please join us on Facebook at follow us on Twitter: @IndivisibleCA10 and Instagram: @indivisiblemanteca10. 
