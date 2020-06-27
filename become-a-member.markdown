@@ -1,6 +1,6 @@
 ---
 title: Become A Member
-date: 2017-02-16 19:58:00 -08:00
+date: 2020-06-12 19:58:00 -07:00
 position: 4
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
   rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
@@ -150,15 +150,16 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
   = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='MMERGE5';ftypes[5]='address';fnames[3]='MMERGE3';ftypes[3]='phone';}(jQuery));var
   $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
-instagram_username: indivisible_manteca10
-Instagram: 
+instagram_username: "@indivisiblemanteca10"
+Instagram: "@indivisiblemanteca10"
 layout: becomeAMember
 ---
 
-Please join us on Facebook at https://www.facebook.com/groups/318685928528179/ or e-mail us for more information on how to help.
-Members of our Indivisible Manteca are defined by our action and find solidarity in our shared opposition of Trump and Trumpism. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe resisting Trump is more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
+We are a non-partisan community political organization that participates in advocacy and action in support of local, state, and federal issues.
 
-Members of our Indivisible Guide chapter come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.]
+Please join us on Facebook at https://www.facebook.com/indivisiblemanteca10/?eid=ARCNiMS59d6z6bF44eQ3n8Tsp9P8zx-wobGCld2Qfu74WnIUMSRTi9AZ3RQsWMqQtrJk3MVRrFWtrDuf and follow us on Twitter: @Twitter: @IndivisibleCA10 and Instagram: @indivisiblemanteca10. 
+
+
 
 **All are welcome.**
 [IMG_1928.JPG](/uploads/IMG_1928.JPG)
