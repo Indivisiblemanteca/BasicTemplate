@@ -150,16 +150,11 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
   = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='MMERGE5';ftypes[5]='address';fnames[3]='MMERGE3';ftypes[3]='phone';}(jQuery));var
   $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
-instagram_username: "@indivisiblemanteca10"
-Instagram: "@indivisiblemanteca10"
+instagram_username: 
+Instagram: 
 layout: becomeAMember
 ---
 
 We are a non-partisan community political organization that participates in advocacy and action in support of local, state, and federal issues.
 
-Please join us on Facebook at https://www.facebook.com/indivisiblemanteca10/?eid=ARCNiMS59d6z6bF44eQ3n8Tsp9P8zx-wobGCld2Qfu74WnIUMSRTi9AZ3RQsWMqQtrJk3MVRrFWtrDuf and follow us on Twitter: @Twitter: @IndivisibleCA10 and Instagram: @indivisiblemanteca10. 
-
-
-
-**All are welcome.**
-[IMG_1928.JPG](/uploads/IMG_1928.JPG)
+Please join us on Facebook at follow us on https://www.facebook.com/indivisiblemanteca10/?eid=ARCNiMS59d6z6bF44eQ3n8Tsp9P8zx-wobGCld2Qfu74WnIUMSRTi9AZ3RQsWMqQtrJk3MVRrFWtrDufTwitter: @Twitter: @IndivisibleCA10 and Instagram: @indivisiblemanteca10. 
